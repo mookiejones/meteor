@@ -1,7 +1,7 @@
-
-Template.navbarFooter.events({
-  'click #logOutLink':function(){
-    Router.go('/sign-out');
+Template.navbarHeader.events({
+  'click #navbarBrandLink':function(){
+    //$('#westPanel').sidebar('toggle');
+    toggleWestPanel();
   },
   'click #keybindingsLink':function(){
     $('#keybindingsModal').modal("show");
@@ -16,7 +16,18 @@ Template.navbarFooter.events({
     $('#errorPanel').sidebar('toggle');
   },
   'click #eastPanelToggleLink':function(){
-    $('#eastPanel').sidebar('toggle');
+    //$('#eastPanel').sidebar('toggle');
+    toggleEastPanel();
   }
 
+});
+
+
+Template.navbarFooter.events({
+  'click #westPanelToggle':function(){
+    toggleWestPanel();
+  },
+  'click #eastPanelToggle':function(){
+    toggleEastPanel();
+  }
 });
