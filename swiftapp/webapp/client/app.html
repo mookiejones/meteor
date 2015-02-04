@@ -1,0 +1,11 @@
+<head>
+  <title>Swift</title>
+</head>
+
+<template name="appLayout">
+  {{> navbarHeader}}
+  <main id="mainPanel" class="container navbar-offset">
+    {{> yield }}
+  </main>
+  {{> navbarFooter}}
+</template>

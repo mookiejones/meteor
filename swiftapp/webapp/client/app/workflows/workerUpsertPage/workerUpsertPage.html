@@ -1,0 +1,49 @@
+
+<template name="workerUpsertPage">
+  <div id="workerUpsertPage">
+      <div class="container">
+        <div class="col col-md-offset-3 col-md-6">
+          <div id="workerUpsertCard" class="panel panel-default">
+            <div class="panel-heading">
+              {{ getRecordId }}
+            </div>
+            <div class="panel-body">
+              <form id="workerForm" class="meteor-form">
+                <label id="firstNameLabel" for="firstNameInput">First Name</label>
+                <input id="firstNameInput" class="form-control" type="text" placeholder="Jane" value="{{first}}">
+                <label id="middleNameLabel" for="middleNameInput">First Name</label>
+                <input id="middleNameInput" class="form-control" type="text" placeholder="MiddleName" value="{{middle}}">
+
+                <label id="lastNameLabel" for="lastNameInput">Last Name</label>
+                <input id="lastNameInput"  class="form-control" type="text" placeholder="Doe" value="{{last}}">
+
+                <label id="addressLabel" for="addressInput">Address</label>
+                <input id="addressInput"  class="form-control" type="text" placeholder="456 Second St." value="{{Address}}">
+
+                <label id="cityLabel" for="cityInput">City</label>
+                <input id="cityInput"  class="form-control" type="text" placeholder="Somewhere" value="{{City}}">
+
+                <label id="phoneLabel" for="phoneInput">Phone</label>
+                <input id="phoneInput"  class="form-control" type="tel" placeholder="818-777-2323" value="{{phone}}">
+
+                <label id="stateLabel" for="stateInput">State</label>
+                <input id="stateInput"  class="form-control" type="text" placeholder="NJ" value="{{State}}">
+
+                <label id="zipLabel" for="zipInput">Zip</label>
+                <input id="zipInput"  class="form-control" type="text" placeholder="07307" value="{{Zip}}">
+
+                <label id="emailLabel" for="emailInput">Email</label>
+                <input id="emailInput"  class="form-control" type="email" placeholder="jdoe@widget.com" value="{{Email}}">
+
+                <label id="notesLabel" for="notesInput">Notes</label>
+                <textarea id="notesInput"  class="form-control" rows="3" placeholder="Noteum papyrus et...">{{Notes}}</textarea>
+              </form>
+            </div>
+            <div class="panel-footer">
+              <button id="upsertworkerButton" type="button" class="fullwidth btn btn-info" width="100%">Save worker</button>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</template>
