@@ -22,6 +22,21 @@ Template.navbarHeader.events({
 
 });
 
+Template.registerHelper("hasWorkerControls", function(argument) {
+  if (Router.current()) {
+    console.log("%c need to implement this","color:red;");
+    return true;
+/*    if (/workers/.test(Router.current().url)) {
+      return true;
+    } else if (/add/workers/.test(Router.current().url)) {
+      return true;
+    } else {
+      return false;
+    }*/
+  }
+});
+
+
 
 Template.navbarFooter.events({
   'click #westPanelToggle':function(){

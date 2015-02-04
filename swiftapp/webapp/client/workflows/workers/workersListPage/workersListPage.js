@@ -3,6 +3,23 @@ Session.setDefault('tableLimit', 20);
 Session.setDefault('paginationCount', 1);
 Session.setDefault('selectedPagination', 0);
 Session.setDefault('skipCount', 0);
+Template.workersListPage.alertColor = function(){
+ if(Session.get('alertLevel') == "Success"){
+  return "alert alert-success";
+ }else if(Session.get('alertLevel') == "Info"){
+  return "alert alert-info";
+ }else if(Session.get('alertLevel') == "Warning"){
+  return "alert alert-warning";
+ }else if(Session.get('alertLevel') == "Danger"){
+  return "alert alert-danger";
+ }else{
+  return "alert alert-hidden"
+ }
+}
+
+Template.workersListPage.alertMessage = function(){
+  return Session.get('alertMessage');
+}
 
 
 

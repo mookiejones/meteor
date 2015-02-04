@@ -17,7 +17,7 @@
     {{> navbarHeader }}
     {{> westPanel }}
     {{> inPageAlert }}
-    {{> mainPanel }}
+    {{> appLayout }}
     {{> eastPanel }}
 
     {{> navbarFooter }}
@@ -47,4 +47,11 @@
       </div>
     </div>
   </aside>
+</template>
+<template name="appLayout">
+  {{> navbarHeader}}
+  <main id="mainPanel" class="container navbar-offset">
+    {{> yield }}
+  </main>
+  {{> navbarFooter}}
 </template>

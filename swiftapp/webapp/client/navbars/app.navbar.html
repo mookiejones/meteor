@@ -1,6 +1,19 @@
 <template name="navbarHeader">
   <header id="navbarHeader">
     <nav id="navbarHeaderNav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+      {{#if isLoggedIn}}
+      <ul class="nav navbar-nav">
+        {{#if hasWorkerControls }}
+        <li><a id="addWorkerLink"><u>A</u>dd Worker</a></li>
+          <li><a id="editWorkerLink"><u>E</u>dit Worker</a></li>
+          <li><a id="deleteWorkerLink"><u>D</u>elete Worker</a></li>
+        {{/if}}
+      </ul>
+     <ul class="nav navbar-nav navbar-right">
+       <li><a id="helpLink"><u>H</u>elp</a></li>
+     </ul>
+   {{/if}}
       <div class="container-fluid">
 
         <div class="navbar-header">
@@ -14,8 +27,25 @@
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-	
+
           <ul class="nav navbar-nav navbar-right">
+            <nav class="nav navbar-nav">
+  <!-- Main Menu -->
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{getSelectedValue}} <span class="glyphicon glyphicon-user pull-right"></span></a>
+    <ul class="fullwidth dropdown-menu">
+      <li id="firstOption" class="fullwidth"><a href="#">15 Minutes <span class="glyphicon glyphicon-cog pull-right"></span></a></li>
+      <li class="divider"></li>
+      <li id="secondOption"><a href="#">30 Minutes <span class="glyphicon glyphicon-stats pull-right"></span></a></li>
+      <li class="divider"></li>
+      <li id="thirdOption"><a href="#">1 Hour <span class="badge pull-right"> 42 </span></a></li>
+      <li class="divider"></li>
+      <li id="fourthOption"><a href="#">4 Hour <span class="glyphicon glyphicon-heart pull-right"></span></a></li>
+      <li class="divider"></li>
+      <li id="fifthOption"><a href="#">8 Hours <span class="glyphicon glyphicon-log-out pull-right"></span></a></li>
+    </ul>
+  </li>
+</nav>
             <li><a id="workersLink" href="/workers">Workers</a></li>
             <li><a id="keybindingsLink" href="#">Keybindings</a></li>
             <li><a id="promptLink" href="#">Prompt</a></li>
