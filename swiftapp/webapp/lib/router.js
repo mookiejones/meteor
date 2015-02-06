@@ -13,5 +13,5 @@ Router.configure({
 
 Router.route('homeRoute', {
   path: '/',
-  template: "customersListPage"
+  template: "workersListPage"
 });

@@ -26,12 +26,7 @@
       </thead>
       <tbody>
         {{#each workersList}}
-        <tr>
-          <td>{{first}}</td>
-          <td>{{last}}</td>
-          <td>{{phone}}</td>
-          <td>{{email}}</td>
-        </tr>
+	{{> workerCard}}       
         {{/each}}
       </tbody>
     </table>
@@ -45,6 +40,14 @@
   </div>
 </template>
 
+<template name="workerCard">
+	 <tr class="worker">
+          <td>{{first}}</td>
+          <td>{{last}}</td>
+          <td>{{phone}}</td>
+          <td>{{email}}</td>
+        </tr>
+</template>
 <template name="paginationButton">
   <button id="pagination-btn-{{index}}" class="{{pageActive}} pagination-btn btn btn-default">{{getPage}}</button>
 </template>

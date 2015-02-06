@@ -3,6 +3,8 @@ Session.setDefault('tableLimit', 20);
 Session.setDefault('paginationCount', 1);
 Session.setDefault('selectedPagination', 0);
 Session.setDefault('skipCount', 0);
+
+
 Template.workersListPage.alertColor = function(){
  if(Session.get('alertLevel') == "Success"){
   return "alert alert-success";
