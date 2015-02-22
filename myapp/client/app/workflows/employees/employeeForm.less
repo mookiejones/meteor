@@ -1,0 +1,105 @@
+// Form - Text Inputs
+
+/*********************************************************
+Light Blue Color
+  color:#2196f3;
+*********************************************************/
+.dataset-menu{
+  height: 100px;
+  width: 100px;
+  border: 2px solid darkgray;
+  cursor: pointer;
+}
+
+.notify{
+  border-radius:5px !important;
+  color:black !important;  
+}
+.expired{
+  background:red !important;
+}
+.warning{
+  background:orange!important;
+}
+
+.dataset-menu:hover{
+  border: 2px solid orangered;
+}
+
+.menu-item{
+  padding-bottom: 20px;
+  height: 140px;
+}
+.menu-label{
+  padding-left: 20px;
+  font-weight: 24px;
+}
+.menu-synopsis{
+  position: relative;
+  top: -100px;
+  left: 120px;
+}
+
+
+
+// Form - Radios and Checkboxes
+
+
+input[type="radio"], input[type="checkbox"]{
+  filter:alpha(opacity=0);
+  -moz-opacity:0;
+  -khtml-opacity: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.meteor-form label.smallgray{
+  position: relative;
+  top: -30px;
+  float: right;
+  color: lightgray;
+  padding-right: 10px;
+  font-weight: normal;
+}
+
+
+input[type=checkbox] {
+  width: 44px; height: 44px;
+  -webkit-border-radius: 22px; -moz-border-radius: 22px; border-radius: 22px;
+  border: 1px solid #bbb;
+}
+
+input[type=range] {
+  width: 100%;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 44px; height: 44px;
+  background: #fdfdfd; background: -moz-linear-gradient(top, #fdfdfd 0%, #bebebe 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#bebebe)); background: -webkit-linear-gradient(top, #fdfdfd 0%,#bebebe 100%); background: -o-linear-gradient(top, #fdfdfd 0%,#bebebe 100%); background: -ms-linear-gradient(top, #fdfdfd 0%,#bebebe 100%); background: linear-gradient(to bottom, #fdfdfd 0%,#bebebe 100%);
+  border: 1px solid #bbb;
+  -webkit-border-radius: 22px; -moz-border-radius: 22px; border-radius: 22px;
+}
+
+
+.list-group-item:hover{
+  color:#2196f3;
+}
+
+// mobile phone layout
+@media only screen and (max-width: 480px) {
+
+}
+
+// portrait orientation
+@media only screen and (max-width: 768px) {
+  #formPanel .padded{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+// landscape orientation
+@media only screen and (min-width: 768px) {
+
+}

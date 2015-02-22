@@ -1,0 +1,679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"todayHighlight"
+			],
+			[
+				"eml",
+				"employeesListTemplate"
+			],
+			[
+				"editing",
+				"editing_birthday"
+			],
+			[
+				"birthda",
+				"birthdayInput"
+			],
+			[
+				"birth",
+				"birthdayInput"
+			],
+			[
+				"Emply",
+				"EmployeeAccounts"
+			],
+			[
+				"first",
+				"first_aid"
+			],
+			[
+				"set",
+				"setAndFlush"
+			],
+			[
+				"editing_b",
+				"editing_birthdate"
+			],
+			[
+				"bac",
+				"background_check_enabled"
+			],
+			[
+				"Back",
+				"BackgroundCheck"
+			],
+			[
+				"do",
+				"doc_training_enabled"
+			],
+			[
+				"Doc",
+				"DocTraining"
+			],
+			[
+				"conf",
+				"confidentiality_enabled"
+			],
+			[
+				"ab",
+				"abuse_neglect_enabled"
+			],
+			[
+				"AB",
+				"AbuseNeglect"
+			],
+			[
+				"tb",
+				"tb_date_enabled"
+			],
+			[
+				"pbs",
+				"pbs_enabled"
+			],
+			[
+				"mand",
+				"mandt_enabled"
+			],
+			[
+				"medic",
+				"medical_class_enabled"
+			],
+			[
+				"cpr",
+				"cpr_enabled"
+			],
+			[
+				"edu",
+				"education_enabled"
+			],
+			[
+				"ins",
+				"insuranceInput"
+			],
+			[
+				"insu",
+				"insurance_enabled"
+			],
+			[
+				"dr",
+				"drivers_license_enabled"
+			],
+			[
+				"Driver",
+				"DriversLicense"
+			],
+			[
+				"create",
+				"create-journey-dialog"
+			],
+			[
+				"Cust",
+				"CustomersController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.html",
+			"settings":
+			{
+				"buffer_size": 7660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.js",
+			"settings":
+			{
+				"buffer_size": 33593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/page.employees.js",
+			"settings":
+			{
+				"buffer_size": 28162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/navbar/navbars.less",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/navbar/navHeader.html",
+			"settings":
+			{
+				"buffer_size": 719,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeesPage.html",
+			"settings":
+			{
+				"buffer_size": 424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/navbar/navfooter.html",
+			"settings":
+			{
+				"buffer_size": 549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/home/home.html",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"File: New View into File"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.less",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/page.employees.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeesList.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/navbar/navHeader.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeesPage.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/layout/layout.html",
+		"/Users/admin/Desktop/myapp/myapp/client/syntax.custom.less",
+		"/Users/admin/Desktop/myapp/myapp/SwiftHouse.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/notFound/notFound.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/layout/layout.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/notFound/notFound.less",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/notFound/notFound.js",
+		"/Users/admin/Desktop/myapp/myapp/Router.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/layout/about.html",
+		"/Users/admin/Desktop/myapp/myapp/helpers.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/home/home.html",
+		"/Users/admin/Desktop/myapp/myapp/lib/collections.js",
+		"/Users/admin/Desktop/myapp/myapp/model.js",
+		"/Users/admin/Desktop/myapp/myapp/server/publications.js",
+		"/Users/admin/Desktop/myapp/myapp/server/server.methods.js",
+		"/Users/admin/Desktop/myapp/myapp/server/initialize.employees.js",
+		"/Users/admin/Desktop/myapp/myapp/.meteor/packages",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/helpers/helpers.js",
+		"/Users/admin/Desktop/myapp/myapp/server/schema.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/navbar/navbars.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/customerForm.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/customersPage.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/app.sessions.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/customerForm.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/page.customers.js",
+		"/Users/admin/Desktop/myapp/myapp/server/initialize.customers.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/app.helpers.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/app.layout.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/app.subscriptions.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/customersList.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/customerPage.less",
+		"/Users/admin/Desktop/myapp/myapp/both/router/router.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/syntax.custom.less",
+		"/Users/admin/Desktop/myapp/myapp/smart.json",
+		"/Users/admin/Desktop/myapp/myapp/packages/.gitignore",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/publications.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/helpers/helpers.js",
+		"/Users/admin/Desktop/myapp/myapp/client/app/workflows/customers/customerList.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/navbars/navbarHeader.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/app.layout.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/page.customers.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/helpers/helpers.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/server/customers/publications.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/server/customers/server.methods.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/model.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/.meteor/packages",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/app/app.layout.html",
+		"/Users/admin/Desktop/myapp/myapp/client/app/navbar/navfooter.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/server/customers/initialize.customers.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/app.layout.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/customerPage.less",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/customerList.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/customersPage.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/app.helpers.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/app.layout.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/app.subscriptions.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/navbars/navbarFooter.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/customerForm.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/workflows/customers/customerForm.html",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/client/app.sessions.js",
+		"/Users/admin/Programming/web/meteor/swiftapp/webapp/syntax.custom.less",
+		"/Users/admin/Programming/first-mate/first-mate/default/web/static/templates/waypoint-card/waypoint-card.js",
+		"/Users/admin/Programming/first-mate/first-mate/default/web/static/templates/waypoint-card/waypoint-card.css",
+		"/Users/admin/Programming/first-mate/first-mate/default/web/static/templates/options-button/options-button.js",
+		"/Users/admin/Programming/first-mate/first-mate/default/web/static/templates/options-button/options-button.css",
+		"/Users/admin/Programming/first-mate/first-mate/default/web/static/templates/journey-card/journey-card.css",
+		"/Users/admin/Programming/first-mate/first-mate/default/web/static/templates/journey-card/journey-card.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log('",
+			"me')",
+			"console",
+			"search",
+			"social",
+			"window",
+			"birthdate",
+			"FirstName",
+			"\\{\\n\\s*\\$set",
+			"\\$set:\\s*\\{\\n\\s*([^\\n]+)\\n\\s*\\}\\n\\s*\\}",
+			"FirstN",
+			"('mouseout\\s+[^\\n]+)\\n\\s*([^\\n]+)\\n\\s*([^\\n]+)\\n\\s*\\},",
+			"('click\\s+[^\\n]+)\\n\\s*([^\\n]+)\\n\\s*([^\\n]+)\\n\\s*\\},",
+			"\\s*('click\\s+[^\\n]+)\\n\\s*([^\\n]+)\\n\\s*([^\\n]+)\\n\\s*\\},",
+			"('click\\s+[^\\n]+)\\n\\s*([^\\n]+)\\n\\s*([^\\n]+)\\n\\s*\\},",
+			"driver",
+			"tb",
+			"generic",
+			"fax",
+			"website",
+			"\\\"Fax\\\":\\\"[\\d-]*\\\",",
+			"website",
+			"customer",
+			"Customer",
+			"customer",
+			"Customer",
+			"customer",
+			"Customer",
+			"customer",
+			"Customer",
+			"fax",
+			"Customer",
+			"customer",
+			"Customer",
+			"customer",
+			"Customer",
+			"customer",
+			"Customer",
+			"customer",
+			"enabled\\s=\\sfunction",
+			";\\nTemplate.customerFormTemplate.",
+			";\\nTemplate.customerFormTemplate",
+			"(,\\s*\\\"status\\\"\\s\\:\\s[\\d]*)",
+			"(\\\"show_notifications\\\"\\s\\:\\s[\\d]*,)",
+			"(\\\"send_emails\\\"\\s\\:\\s[\\d]*,)",
+			"(\\\"photo\\\"\\s\\:\\s\\\"[^\\\"]*\\\",)",
+			"(\\\"-[^\\\"]+\\\"\\s\\:)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{$set",
+			"$set:{$1}}",
+			"$1 $2 $3},",
+			"$1$2$3},",
+			"$1$1$3},",
+			"",
+			"employee",
+			"Employee",
+			"employee",
+			"Employee",
+			"employee",
+			"Employee",
+			"employee",
+			"Employee",
+			"employee",
+			"Employee",
+			"employee",
+			"Employee",
+			"employee",
+			"Employee",
+			"employee",
+			"enabled:function",
+			",\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.html",
+					"settings":
+					{
+						"buffer_size": 7660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4612,
+								4612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeeForm.js",
+					"settings":
+					{
+						"buffer_size": 33593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3386,
+								3386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1091.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/page.employees.js",
+					"settings":
+					{
+						"buffer_size": 28162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26991,
+								27004
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11844.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/navbar/navbars.less",
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/navbar/navHeader.html",
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/employees/employeesPage.html",
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/navbar/navfooter.html",
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/admin/Desktop/myapp/myapp/client/app/workflows/home/home.html",
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true
+}

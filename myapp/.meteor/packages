@@ -1,0 +1,33 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+standard-app-packages
+less
+accounts-ui
+accounts-base
+email
+spiderable
+natestrauser:font-awesome
+matb33:collection-hooks
+perak:user-roles
+reactive-dict
+accounts-password
+mrt:moment
+rajit:bootstrap3-datepicker
+jquery
+random
+ui
+aldeed:simple-schema
+mrt:bootstrap-3
+awatson1978:session-extended-api
+autopublish
+iron:router
+percolate:momentum-iron-router
+percolate:momentum
+panter:bootswatch-paper
+session-extended-api
+tinytest

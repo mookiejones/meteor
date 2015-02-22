@@ -1,0 +1,20 @@
+<template name="navbarHeader">
+  <header id="navbarHeader">
+    <nav id="navbarHeaderNav" class="navbar navbar-inverse" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">TJ Swift House</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+              {{>loginButtons }}
+          <ul class="nav navbar-nav navbar-right">
+            <li><a id="homeLink" href="/" >Home</a></li>
+            <li><a id="workersLink" href="workers">Workers</a></li>
+            <li><a id="aboutLink" href="about">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+</template>
