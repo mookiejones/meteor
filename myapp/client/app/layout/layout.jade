@@ -1,0 +1,10 @@
+template(name="head")
+	head
+		title TJ Swift House
+
+template(name="appBody")
+	.container
+		+navbarHeader
+		+momentum(plugin='iron-router' options=transitionOptions)
+			+yield
+//- {{> employeesPage}}

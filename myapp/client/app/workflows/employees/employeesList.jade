@@ -1,0 +1,11 @@
+template(name='employeesListTemplate')
+  .with-bottom-spacer
+    #employeeSearchContainer
+      input#employeeSearchInput.fullwidth.form-control(type='text' placeholder='Filter...')
+      .spacer
+    .list-group
+      each employeesList
+        +employeesListItemTemplate
+
+template(name='employeesListItemTemplate')
+  a.list-group-item(href='#') {{first_name}} {{last_name}}

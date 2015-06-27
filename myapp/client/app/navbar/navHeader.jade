@@ -1,0 +1,15 @@
+template(name='navbarHeader')
+  header#navbarHeader
+    nav#navbarHeaderNav.navbar.navbar-inverse(role='navigation')
+      .container-fluid
+        .navbar-header
+          a.navbar-brand(href='#') TJ Swift House
+        #bs-example-navbar-collapse-2.collapse.navbar-collapse
+          +loginButtons
+          ul.nav.navbar-nav.navbar-right
+            li
+              a#homeLink(href='/') Home
+            li
+              a#workersLink(href='workers') Workers
+            li
+              a#aboutLink(href='about') About
